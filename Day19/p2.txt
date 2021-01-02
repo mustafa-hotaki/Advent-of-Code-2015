@@ -6,7 +6,18 @@
 O(Rn)PBPMg(Ar)CaCaCaSiThCaCaSiThCaCaPBSi(Rn)F(Ar)(Rn)F(Ar)CaCaSiThCaCaSiThCaCaCaCaCaCaSi(Rn)F(Y)F(Ar)Si(Rn)Mg(Ar)CaSi(Rn)PTiTiBF(Y)PBF(Ar)Si(Rn)CaSi(Rn)Ti(Rn)F(Ar)SiAl(Ar)PTiBPTi(Rn)CaSiAl(Ar)CaPTiTiBPMg(Y)F(Ar)PTi(Rn)F(Ar)Si(Rn)CaCaF(Ar)(Rn)CaF(Ar)CaSi(Rn)Si(Rn)Mg(Ar)F(Y)CaSi(Rn)Mg(Ar)CaCaSiThP(Rn)F(Ar)PBCaSi(Rn)Mg(Ar)CaCaSiThCaSi(Rn)TiMg(Ar)F(Ar)SiThSiThCaCaSi(Rn)Mg(Ar)CaCaSi(Rn)F(Ar)TiBPTi(Rn)CaSiAl(Ar)CaPTi(Rn)F(Ar)PBPBCaCaSiThCaPBSiThP(Rn)F(Ar)SiThCaSiThCaSiThCaPTiBSi(Rn)F(Y)F(Ar)CaCaP(Rn)F(Ar)PBCaCaPBSi(Rn)Ti(Rn)F(Ar)CaP(Rn)F(Ar)Si(Rn)CaCaCaSiThCa(Rn)CaF(Ar)(Y)CaSi(Rn)F(Ar)BCaCaCaSiThF(Ar)PBF(Ar)CaSi(Rn)F(Ar)(Rn)CaCaCaF(Ar)Si(Rn)F(Ar)Ti(Rn)PMg(Ar)F
                                                                                       Si Rn F Y F Ar                     Si Rn F Y F Ar                                                             Si Rn F Y F Ar                                                     Si Rn F Y F Ar                                                                                                                                                                                                      Si Rn F Y F Ar                                                                          Si Rn F Y F Ar                
                                                                                       N  Rn F Y F Ar                     N  Rn F Y F Ar                                                              N  Rn F Y F Ar                                                    N  Rn F Y F Ar                                                                                                                                                                                                      N  Rn F Y F Ar                                                                          N  Rn F Y F Ar                     
- 
+
+      SiRnFAr
+       NRnFAr
+     NRnFYFAr
+      NRnMgAr
+       ORnFAr
+     SiRnMgAr
+    SiRnFYFAr
+      TiRnFAr
+      ThRnFAr
+       PRnFAr
+
 
 
 Al ['ThF', 'ThRnFAr']
@@ -22,3 +33,15 @@ Si ['CaSi']
 Th ['ThCa']
 Ti ['BP', 'TiTi']
 e ['HF', 'NAl', 'OMg']
+
+
+SiRnFAr
+NRnFAr
+NRnFYFAr
+NRnMgAr
+ORnFAr
+SiRnMgAr
+SiRnFYFAr
+TiRnFAr
+ThRnFAr
+PRnFAr
