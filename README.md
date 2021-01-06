@@ -17,12 +17,12 @@
 [Day 14](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day14/Day14.ipynb) \
 [Day 15](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day15/Day15.ipynb) \
 [Day 16](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day16/Day16.ipynb) \
-[Day 17]() (Need to upload) \
+[Day 17](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day17/Day17.ipynb) (Need to upload) \
 [Day 18](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day18/Day18.ipynb) \
-[Day 19]() (Currently missing. I solved it with a random heuristic, but I will resolve with CFGs.) \
+[Day 19](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day19/Day19.ipynb) (Currently missing. I solved it with a random heuristic, but I will resolve with CFGs.) \
 [Day 20](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day20/Day20.ipynb) \
 [Day 21](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day21/Day21.ipynb) \
 [Day 22](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day22/Day22.ipynb) \
 [Day 23](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day23/Day23.ipynb) \
 [Day 24](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day24/Day24.ipynb) \
-[Day 25](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day25/Day25.ipynb) \
+[Day 25](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day25/Day25.ipynb)
