@@ -17,7 +17,7 @@
 [Day 14](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day14/Day14.ipynb) \
 [Day 15](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day15/Day15.ipynb) \
 [Day 16](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day16/Day16.ipynb) \
-[Day 17](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day17/Day17.ipynb) (Need to upload) \
+[Day 17](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day17/Day17.ipynb) \
 [Day 18](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day18/Day18.ipynb) \
 [Day 19](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day19/Day19.ipynb) (Currently missing. I solved it with a random heuristic, but I will resolve with CFGs.) \
 [Day 20](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day20/Day20.ipynb) \
