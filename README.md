@@ -20,7 +20,7 @@ Received all 50 stars.
 [Day 16: Aunt Sue](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day16/Day16.ipynb) \
 [Day 17: No Such Thing as Too Much](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day17/Day17.ipynb) \
 [Day 18: Like a GIF For Your Yard](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day18/Day18.ipynb) \
-[Day 19: Medicine for Rudolph](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day19/Day19.ipynb) (Currently not uploaded. I solved it with a random heuristic (cheated and looked at Reddit for this one), but I think will re-solve with CFGs before uploading. Probably the most interesting problem in all of AoC.) \
+[Day 19: Medicine for Rudolph](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day19/Day19.ipynb) (Currently not uploaded. I solved it with a random heuristic (I cheated and looked for hints on Reddit for this one), but I think will re-solve with CFGs before uploading. It's the most interesting/difficult problem in all of AoC (unlike some that are just tedious). \
 [Day 20: Infinite Elves and Infinite Houses](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day20/Day20.ipynb) \
 [Day 21: RPG Simulator 20XX](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day21/Day21.ipynb) \
 [Day 22: Wizard Simulator 20XX](https://github.com/mustafa-hotaki/Advent-of-Code-2015/blob/main/Day22/Day22.ipynb) \
